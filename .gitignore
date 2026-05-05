@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 hadoop-3.5.0-src/
-
+.vscode
 # Distribution / packaging
 .Python
 build/
