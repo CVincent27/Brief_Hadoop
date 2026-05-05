@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+hadoop-3.5.0-src/
+
 # Distribution / packaging
 .Python
 build/
